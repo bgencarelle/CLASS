@@ -1,0 +1,81 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/CLASS/full_adder_if_lab
+Emux4x1
+Z0 w1510081873
+Z1 dC:/Modeltech_pe_edu_10.4a/CLASS/multiplexer_lab
+Z2 8C:/Modeltech_pe_edu_10.4a/CLASS/multiplexer_lab/mux4x1.vhd
+Z3 FC:/Modeltech_pe_edu_10.4a/CLASS/multiplexer_lab/mux4x1.vhd
+l0
+L3
+VJX9iJ6zY5<HCHQe0?_Tb41
+!s100 hVhO:<niGBT9U3jbHkKoo0
+Z4 OP;C;10.4a;61
+32
+Z5 !s110 1510081993
+!i10b 1
+Z6 !s108 1510081993.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/CLASS/multiplexer_lab/mux4x1.vhd|
+Z8 !s107 C:/Modeltech_pe_edu_10.4a/CLASS/multiplexer_lab/mux4x1.vhd|
+!i113 1
+Z9 o-work work -2002 -explicit -O0
+Z10 tExplicit 1
+Abehaviour
+Z11 DEx4 work 6 mux4x1 0 22 JX9iJ6zY5<HCHQe0?_Tb41
+l10
+L9
+V5DIFAAin87hdIbHG=M43N2
+!s100 VT<^YQT1m5FcEPU;T>65?0
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Etestbench
+Z12 w1510081959
+R1
+Z13 8C:\Modeltech_pe_edu_10.4a\CLASS\multiplexer_lab\mux4x1_tb.vhd
+Z14 FC:\Modeltech_pe_edu_10.4a\CLASS\multiplexer_lab\mux4x1_tb.vhd
+l0
+L3
+VeMUkT<QKHfL4VXPIe<LU60
+!s100 WGOTcz7O]TTVmZ@BURinz0
+R4
+32
+R5
+!i10b 1
+R6
+Z15 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Modeltech_pe_edu_10.4a\CLASS\multiplexer_lab\mux4x1_tb.vhd|
+Z16 !s107 C:\Modeltech_pe_edu_10.4a\CLASS\multiplexer_lab\mux4x1_tb.vhd|
+!i113 1
+R9
+R10
+Atestbencharch
+R11
+Z17 DEx4 work 9 testbench 0 22 eMUkT<QKHfL4VXPIe<LU60
+l17
+L6
+Z18 VOBG[_[@A_0RoG?mz@dg4Q1
+Z19 !s100 iH[T>e<m[QRjCAi81YB[V1
+R4
+32
+R5
+!i10b 1
+R6
+R15
+R16
+!i113 1
+R9
+R10
