@@ -1,0 +1,21 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+
+ENTITY nor_gate_logic IS 
+	PORT ( a, b : IN std_ulogic;
+		c_logic:OUT std_ulogic;
+);
+END nor_gate_logic;
+
+
+
+
+ARCHITECTURE nor_logic OF nor_gate  IS
+BEGIN	
+  PROCESS
+  BEGIN
+	c_logic <= a NOR b AFTER 10ns;
+  WAIT ON a, b;
+  END PROCESS  ;
+END nor_logic;
+

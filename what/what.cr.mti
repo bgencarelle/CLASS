@@ -1,0 +1,7 @@
+C:/Modeltech_pe_edu_10.4a/CLASS/what/what.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/CLASS/what/what.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Compiling entity What
+-- Compiling architecture logic of What
+
+} {} {}}

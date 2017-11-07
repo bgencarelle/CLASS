@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/CLASS
+vkpfilter
+!s110 1509112936
+!i10b 1
+!s100 :R4LGX_VbeB^5lH>DNDMW1
+IPMhO^;Djk>h8_4H:7YM>:2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Modeltech_pe_edu_10.4a/CLASS/verilogtest
+w1508138230
+8C:/Users/bgenc/Documents/GitHub/KPCDASS2017/V/kpfilter.v
+FC:/Users/bgenc/Documents/GitHub/KPCDASS2017/V/kpfilter.v
+L0 2
+Z2 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1509112936.000000
+!s107 C:/Users/bgenc/Documents/GitHub/KPCDASS2017/V/kpfilter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bgenc/Documents/GitHub/KPCDASS2017/V/kpfilter.v|
+!s101 -O0
+!i113 1
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vmainfilter
+!s110 1509367512
+!i10b 1
+!s100 M9^R60akRPWl1KG3I6?Ll2
+I`TFoie`BOHEzMZ?amgm6;3
+R0
+R1
+w1508134630
+8C:/Modeltech_pe_edu_10.4a/CLASS/verilogtest/mainfilter.v
+FC:/Modeltech_pe_edu_10.4a/CLASS/verilogtest/mainfilter.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1509367512.000000
+!s107 C:/Modeltech_pe_edu_10.4a/CLASS/verilogtest/mainfilter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/CLASS/verilogtest/mainfilter.v|
+!s101 -O0
+!i113 1
+R3

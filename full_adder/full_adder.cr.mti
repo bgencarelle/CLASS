@@ -1,0 +1,27 @@
+C:/Modeltech_pe_edu_10.4a/CLASS/full_adder/full_adder.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/CLASS/full_adder/full_adder.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity full_adder
+-- Compiling architecture dataflow_full of full_adder
+-- Loading entity HALF_ADDER
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/CLASS/full_adder/half_adder.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/CLASS/full_adder/half_adder.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity HALF_ADDER
+-- Compiling architecture DATAFLOW of HALF_ADDER
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/CLASS/full_adder/ripple_adder.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Modeltech_pe_edu_10.4a\CLASS\full_adder\ripple_adder.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ripple_adder
+-- Compiling architecture struc_dataflow_3 of ripple_adder
+-- Loading entity full_adder
+
+} {} {}}

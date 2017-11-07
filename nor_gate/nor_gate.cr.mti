@@ -1,0 +1,18 @@
+C:/Modeltech_pe_edu_10.4a/CLASS/nor_gate/nor_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/CLASS/nor_gate/nor_gate.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nor_gate
+-- Compiling architecture nor_selected of nor_gate
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/CLASS/nor_gate/testbench_for_nor_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Modeltech_pe_edu_10.4a\CLASS\nor_gate\testbench_for_nor_gate.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Testbench
+-- Compiling architecture TestbenchArch of Testbench
+-- Loading entity nor_gate
+
+} {} {}}
