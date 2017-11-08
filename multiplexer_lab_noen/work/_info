@@ -7,23 +7,23 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-dC:/Modeltech_pe_edu_10.4a/CLASS/full_adder_if_lab
+Z0 dC:/Modeltech_pe_edu_10.4a/CLASS/multiplexer_lab_noen
 Emux4x1
-Z0 w1510081873
-Z1 dC:/Modeltech_pe_edu_10.4a/CLASS/multiplexer_lab
-Z2 8C:/Modeltech_pe_edu_10.4a/CLASS/multiplexer_lab/mux4x1.vhd
-Z3 FC:/Modeltech_pe_edu_10.4a/CLASS/multiplexer_lab/mux4x1.vhd
+Z1 w1510081873
+R0
+Z2 8C:/Modeltech_pe_edu_10.4a/CLASS/multiplexer_lab_noen/mux4x1.vhd
+Z3 FC:/Modeltech_pe_edu_10.4a/CLASS/multiplexer_lab_noen/mux4x1.vhd
 l0
 L3
 VJX9iJ6zY5<HCHQe0?_Tb41
 !s100 hVhO:<niGBT9U3jbHkKoo0
 Z4 OP;C;10.4a;61
 32
-Z5 !s110 1510081993
+Z5 !s110 1510130361
 !i10b 1
-Z6 !s108 1510081993.000000
-Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/CLASS/multiplexer_lab/mux4x1.vhd|
-Z8 !s107 C:/Modeltech_pe_edu_10.4a/CLASS/multiplexer_lab/mux4x1.vhd|
+Z6 !s108 1510130361.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/CLASS/multiplexer_lab_noen/mux4x1.vhd|
+Z8 !s107 C:/Modeltech_pe_edu_10.4a/CLASS/multiplexer_lab_noen/mux4x1.vhd|
 !i113 1
 Z9 o-work work -2002 -explicit -O0
 Z10 tExplicit 1
@@ -45,9 +45,9 @@ R9
 R10
 Etestbench
 Z12 w1510081959
-R1
-Z13 8C:\Modeltech_pe_edu_10.4a\CLASS\multiplexer_lab\mux4x1_tb.vhd
-Z14 FC:\Modeltech_pe_edu_10.4a\CLASS\multiplexer_lab\mux4x1_tb.vhd
+R0
+Z13 8C:/Modeltech_pe_edu_10.4a/CLASS/multiplexer_lab_noen/mux4x1_tb.vhd
+Z14 FC:/Modeltech_pe_edu_10.4a/CLASS/multiplexer_lab_noen/mux4x1_tb.vhd
 l0
 L3
 VeMUkT<QKHfL4VXPIe<LU60
@@ -57,18 +57,18 @@ R4
 R5
 !i10b 1
 R6
-Z15 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Modeltech_pe_edu_10.4a\CLASS\multiplexer_lab\mux4x1_tb.vhd|
-Z16 !s107 C:\Modeltech_pe_edu_10.4a\CLASS\multiplexer_lab\mux4x1_tb.vhd|
+Z15 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/CLASS/multiplexer_lab_noen/mux4x1_tb.vhd|
+Z16 !s107 C:/Modeltech_pe_edu_10.4a/CLASS/multiplexer_lab_noen/mux4x1_tb.vhd|
 !i113 1
 R9
 R10
 Atestbencharch
 R11
-Z17 DEx4 work 9 testbench 0 22 eMUkT<QKHfL4VXPIe<LU60
+DEx4 work 9 testbench 0 22 eMUkT<QKHfL4VXPIe<LU60
 l17
 L6
-Z18 VOBG[_[@A_0RoG?mz@dg4Q1
-Z19 !s100 iH[T>e<m[QRjCAi81YB[V1
+VOBG[_[@A_0RoG?mz@dg4Q1
+!s100 iH[T>e<m[QRjCAi81YB[V1
 R4
 32
 R5
